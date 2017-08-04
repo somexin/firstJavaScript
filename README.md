@@ -1,1 +1,1 @@
-[点这里](https://xugy0926.github.io/getting-started-with-javascript/)
+这是somexin的第N个项目、为什么学习JavaScript呢？因为我认为可以用这个技术给自己做点有意思的事情、比如给自己做一些小工具，用双手改变生活是很美的。
